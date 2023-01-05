@@ -1,5 +1,5 @@
-public with sharing class JenkinDemo {
-    public JenkinDemo() {
-System.debug("first class");
+public with sharing class jenkinDemo {
+    public jenkinDemo() {
+
     }
 }
