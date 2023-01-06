@@ -16,6 +16,9 @@
         <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
-    
+    <types>
+        <members>*</members>
+   <name>ApexPage</name>
+ </types>
     <version>56.0</version>
 </Package>
