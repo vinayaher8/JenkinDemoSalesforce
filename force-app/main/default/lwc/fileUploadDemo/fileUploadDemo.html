@@ -1,0 +1,7 @@
+<template>
+    <lightning-input type="file" label="File" onchange={handleFileChange}></lightning-input>
+    <template if:true={fileContents}>
+      <p>File Contents:</p>
+      <pre>{fileContents}</pre>
+    </template>
+  </template>
